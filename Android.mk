@@ -29,7 +29,7 @@ LOCAL_AAPT_FLAGS += --rename-manifest-package org.cyanogenmod.snap
 
 #LOCAL_SDK_VERSION := current
 
-LOCAL_OVERRIDES_PACKAGES := Camera2
+#LOCAL_OVERRIDES_PACKAGES := Camera2
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 
